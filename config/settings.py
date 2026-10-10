@@ -37,10 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'routines',
-    'family',
-    'medicines',
-    'remainders',
+"family",
+"medicines",
+"reminders",
+"routines",
 ]
 
 MIDDLEWARE = [
